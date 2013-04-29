@@ -1,0 +1,7 @@
+()
+(quote ())
+(null ())
+(null T)
+(null (quote roee))
+(null (quote NIL))
+(null (EQ () NIL))

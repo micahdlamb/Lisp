@@ -1,0 +1,6 @@
+(QUOTE A)
+((QUOTE A))
+(B C)
+(7 T)
+(A . B)
+((A . B) . B)

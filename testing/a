@@ -1,0 +1,127 @@
+()
+NIL
+(defun N () ())
+(n)
+(defun N () NIL)
+(n)
+1 2 3
+(quote (7 . nil))
+(quote (NIL . NIL))
+(quote (1 2 3 4 . 5))
+(quote (() 2 3 4 . 5))
+(quote (1 2 3 4 . NIL))
+(quote (() 2 3 4 . NIL))
+
+(plus -5 +5)
+
+(defun xx NIL 5)
+(defun yy () 5)
+(xx)
+(yy)
+(xx 1)
+
+(defun x (a b c d)
+	(cond
+		((greater a b) (PLUS (car (quote (5 9))) (car (cdr (quote (234 632))))))
+		((x d c b (PLUS a 1)) (plus d (plus b (REMAINDER a c))))
+	)
+)
+
+(defun inner (a b)
+	(times (plus (plus a e) f) b)
+)
+
+(defun outer (e f)
+	(cond
+		((NULL (inner 1 2)) (inner 52 325))
+		((EQ (inner 432 123) (inner 1 2)) (inner 41 32))
+		((atom (inner 1 2)) (inner 532 421))
+	)
+)
+
+(cons
+	(times (quotient (outer 63 32) (x 352 432 441 231)) (minus (x 32 344 3 34) (outer 234 32)))
+	NIL
+)
+
+
+(defun yyy (a b c d)
+	(cons
+		(cons
+			(cons
+				(cons
+					(car (cdr (cons (quote t) (cons 5 (INT (NULL (eq a T)))))))
+					(quote (NULL NIL))
+				)
+				(cons
+					(less c d) (quote a)
+				)
+			)
+			NIL
+		)
+		T
+	)
+)
+
+(yyy 1 2 3 4)
+
+(x 5 10 15 20)
+(defun gay (x) (x x 10 15 20))
+(gay 5)
+car
+(car 5)
+(cdr 5)
+(defun 5 (1 2 3) 5)
+(5 1 2 3)
+(MINUS 10 5)
+(PLUS 10 -5)
+
+(eq 5 5)
+(atom 5)
+(atom NIL)
+(int 12)
+(eq NIL NIL)
+(eq (less (plus 5 10) 5) (less 2 1))
+
+(atom (quote (x . y)))
+(atom (greater 10 5))
+(eq (less (plus 5 10) 5) (less 5 10))
+(eq NIL T)
+(eq 5 NIL)
+(eq 5 10)
+(eq NIL 5)
+(int NIL)
+(int T)
+(int (less 10 5))
+
+(defun T (x y z) x)
+(x)
+(cond NIL)
+(defun z (a) (a 10 20))
+(z outer)
+(x 1 2 3 4 5)
+(x 1 2 3)
+(eq x x)
+(yyy (eq T NIL) (Atom (greater 5 1)) (NULL T) (int (plus 5 6)))
+(add T 5)
+(plus T 5)
+(times 5 NIL)
+(divide x 5)
+(quotient y 10)
+(remainder (atom NULL))
+(z 10)
+((car (quote (times plus))) 5 5)
+(cond (1 2 3))
+(plus . x)
+(defun tits (a -b)
+(5 .5)
+(5. 5)
+(defun * (a b) x)
+(defun -y (x) x)
+(defun +x (x) x)
+(x .)
+(. x)
+)
+(
+.
+.

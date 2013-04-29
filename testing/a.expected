@@ -1,0 +1,73 @@
+NIL
+NIL
+N
+NIL
+N
+NIL
+1
+2
+3
+(7)
+(NIL)
+(1 . (2 . (3 . (4 . 5))))
+(NIL . (2 . (3 . (4 . 5))))
+(1 2 3 4)
+(NIL 2 3 4)
+0
+XX
+YY
+5
+5
+ERROR: XX called with 1 args instead of 0
+X
+INNER
+OUTER
+(-87250280)
+YYY
+((((5 NULL NIL) . (T . A))) . T)
+35
+GAY
+35
+ERROR: undefined variable: CAR
+ERROR: CAR called with arg of invalid type
+ERROR: CDR called with arg of invalid type
+ERROR: DEFUN called with arg of invalid type
+ERROR: first item of S-EXPR must be function: 5 found
+5
+5
+T
+T
+T
+T
+T
+T
+NIL
+NIL
+NIL
+NIL
+NIL
+NIL
+NIL
+NIL
+NIL
+NIL
+ERROR: DEFUN called with arg of invalid type
+ERROR: X called with 0 args instead of 4
+ERROR: COND arg 0 must be a list of size 2
+Z
+ERROR: undefined variable: OUTER
+ERROR: X called with 5 args instead of 4
+ERROR: X called with 3 args instead of 4
+ERROR: undefined variable: X
+ERROR: LESS called with args of invalid type
+ERROR: undefined function: ADD
+ERROR: PLUS called with args of invalid type
+ERROR: TIMES called with args of invalid type
+ERROR: undefined function: DIVIDE
+ERROR: undefined variable: Y
+ERROR: REMAINDER called with 1 args instead of 2
+ERROR: undefined function: A
+ERROR: first item of S-EXPR must be function: (CAR (QUOTE (TIMES PLUS))) found
+ERROR: COND arg 0 must be a list of size 2
+ERROR: S-EXPR beginning with ID is function call and must be a list
+ERROR: - must be followed by a number

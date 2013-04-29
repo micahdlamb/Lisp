@@ -1,0 +1,6 @@
+(CAR (QUOTE ((QUOTE A) B C)))
+(CAR (QUOTE (((QUOTE A)) B C)))
+(CDR (QUOTE (((QUOTE A)) B C)))
+(CDR (CONS (QUOTE NIL) (CONS (PLUS 3 4) (CONS (quote T) NIL))))
+(CONS (QUOTE A) (QUOTE B))
+(CONS (QUOTE (A . B)) (QUOTE B))
